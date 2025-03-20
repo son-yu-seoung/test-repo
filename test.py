@@ -7,4 +7,4 @@ import numpy as np
 
 # 실습 2
 # 실습 2 already
-
+# 실습 2-2
