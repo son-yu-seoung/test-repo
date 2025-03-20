@@ -5,4 +5,6 @@ import numpy as np
 # 실습 1
 # 실습 1-2
 
+# 실습 2
 # 실습 2 already
+
