@@ -4,3 +4,4 @@ import numpy as np
 # edit1
 # 실습 1
 # 실습 1-2
+# 실습 2
